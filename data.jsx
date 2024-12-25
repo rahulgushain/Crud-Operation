@@ -1,0 +1,31 @@
+export const data =[
+    {
+        id:1,
+        name:"Rahul",
+        lname:"gushain",
+        post:"developer",
+        age:23
+    },
+    {
+        id:2,
+        name:"Rahul",
+        lname:"gushain",
+        post:"developer",
+        age:24
+
+    },
+    {
+        id:3,
+        name:"Rahul",
+        lname:"gushain",
+        post:"developer",
+        age:20
+    },
+    {
+        id:4,
+        name:"Rahul",
+        lname:"gushain",
+        post:"developer",
+        age:35
+    },
+]
